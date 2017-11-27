@@ -1,0 +1,11 @@
+Parts of body
+heart
+gromelurus
+thyroid
+larynx
+bronchiole
+nasopharynx
+gallbladder
+oesophagus
+duodenum
+urethra
